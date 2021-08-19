@@ -8,7 +8,7 @@
 <h4>
 
 • Go on <a href="sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
-• Download IPTV Pro to Play Live Channels<br><br>
+• Download <a href="https://files.moddroid.com/IPTV%20Pro/IPTV_Pro-v6.1.5_build_1097-Mod-armeabi-v7a.apk">IPTV Pro v6.1.5</a> to Play Live Channels<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy <br><br>
 
