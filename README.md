@@ -8,7 +8,7 @@
 <h4>
 
 • Go on 1st : <a href="sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
-• Go on 2nd : <a href="sneh-new-iptv.m3u">Sneh New IPTV v2.0</a>  <br><br>
+• Go on 2nd : <a href="sneh-new-iptv.m3u">Sneh IPTV v2.0</a>  <br><br>
 • Go on 3rd : <a href="Sony&Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
 • Go on 4th : <a href="CLOUDTAMIL.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
