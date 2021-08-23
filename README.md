@@ -1,4 +1,4 @@
-<p align="center"><img src="iptv.png" width="100" height="100"></p>
+<p align="center"><img src="snehiptv.gif" width="350" height="200"></p>
 <h1 align="center"> ✯ Sneh IPTV v2.2 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
