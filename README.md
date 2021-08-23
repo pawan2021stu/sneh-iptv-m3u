@@ -7,10 +7,10 @@
 
 <h4>
 
-• Copy 1st Link : <a href="sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
-• Copy 2nd Link : <a href="sneh-new-iptv.m3u">Sneh IPTV v2.0</a>  <br><br>
-• Copy 3rd Link : <a href="#">Sneh Sony & Zee5 Playlists </a>  <br><br>
-• Copy 4th Link : <a href="CLOUDTAMIL.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
+• Copy 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
+• Copy 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-new-iptv.m3u">Sneh IPTV v2.0</a>  <br><br>
+• Copy 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
+• Copy 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/CLOUDTAMIL.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
 • Only Play this m3u file in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
