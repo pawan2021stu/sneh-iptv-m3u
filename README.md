@@ -1,9 +1,9 @@
 <p align="center"><img src="iptv.png" width="100" height="100"></p>
-<h1 align="center"> ✯ Sneh IPTV v2.2✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v2.2 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
-<h2>🎶 How To Download & Use : </h2>
+## 🎶 How To Download & Use : 
 
 <h4>
 
@@ -19,7 +19,7 @@
 </h4>
 <br>
 
-## 🍃 Updates
+## 🍃 Updates v2.2 : 
  
 
 <h4>
@@ -33,8 +33,19 @@
 
 <br> 
 
+## 🍁 Given Below Are List of Some Screenshots Of Sneh IPTV : 
 
 
+<div>
+
+<img src="images/iptv1.jpg" alt="IPTV 1" width="320" height="180">
+<img src="images/iptv2.jpg" alt="IPTV 2" width="320" height="180"><br>
+<img src="images/iptv3.jpg" alt="IPTV 3" width="320" height="180">
+<img src="images/iptv4.jpg" alt="IPTV 4" width="320" height="180"><br>
+
+</div>
+
+<br> 
   
 ---
 <h5 align='center'>© 2021 Techie Sneh</h5>
