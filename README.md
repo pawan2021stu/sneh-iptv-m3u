@@ -3,7 +3,7 @@
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
-<h2>🍁 How To Use : </h2>
+<h2>🎶 How To Download & Use : </h2>
 
 <h4>
 
@@ -14,14 +14,13 @@
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
 • Only Play this m3u file in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
-• And Just Enjoy <br><br>
+• And Just Enjoy  
 
 </h4>
 <br>
 
-
 ## 🍃 Updates
-<br>
+ 
 
 <h4>
 
@@ -32,7 +31,7 @@
 
 </h4>
 
-<br><br> 
+<br> 
 
 
 
