@@ -1,4 +1,4 @@
-<p align="center"><img src="snehiptv.gif" width="350" height="200"></p>
+<p align="center"><img src="snehiptv.gif" width="350" height="220"></p>
 <h1 align="center"> ✯ Sneh IPTV v2.2 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
@@ -10,7 +10,8 @@
 1 » Worldwide Channels Added<br>
 2 » All Indian Channels Works<br>
 3 » Some Channels not Works<br>
-4 » Update your m3u files weekly from here<br>
+4 » Zee5 & Sony Chamnnels Updated<br>
+5 » Update your m3u files weekly from here<br>
 
 </h4>
 
