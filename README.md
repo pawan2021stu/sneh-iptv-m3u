@@ -1,17 +1,18 @@
 <p align="center"><img src="snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v2.2 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v2.3 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
-## 🍃 Updates v2.2 : 
+## 🍃 Updates v2.3 : 
  
 <h4>
 
 1 » Worldwide Channels Added<br>
 2 » All Indian Channels Works<br>
 3 » Some Channels not Works<br>
-4 » Zee5 & Sony Chamnnels Updated<br>
-5 » Update your m3u files weekly from here<br>
+4 » Zee5 & Sony Channels Updated<br>
+5 » New Indian Channels Added<br>
+6 » Update your m3u files weekly from here<br>
 
 </h4>
 
@@ -25,6 +26,7 @@
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-new-iptv.m3u">Sneh IPTV v2.0</a>  <br><br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
 • 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/CLOUDTAMIL.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
+• 5th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-iptv-all-india.m3u">Sneh All India New v2.3 </a>  <br><br>
 • Right click on m3u playlists to copy and play in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy  
