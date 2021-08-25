@@ -22,14 +22,16 @@
 
 <h4>
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-new-iptv.m3u">Sneh IPTV v2.0</a>  <br><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/CLOUDTAMIL.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
-• 5th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/sneh-iptv-all-india.m3u">Sneh All India New v2.3 </a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Redjoy%20Playlists/sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-new.m3u">Sneh IPTV v2.0</a>  <br><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
+• 5th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-all-india.m3u">Sneh All India New v2.3 </a>  <br><br>
+• 6th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil-v2.m3u">Sneh Cloud Tamil v2 Playlists </a>  <br><br>
 • Right click on m3u playlists to copy and play in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy  
+
 
 ---
 
