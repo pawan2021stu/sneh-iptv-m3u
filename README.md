@@ -1,9 +1,9 @@
-<p align="center"><img src="snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v2.3 ✯ </h1>
+<p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
+<h1 align="center"> ✯ Sneh IPTV v2.4 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
-## 🍃 Updates v2.3 : 
+## 🍃 Updates v2.4 : 
  
 <h4>
 
