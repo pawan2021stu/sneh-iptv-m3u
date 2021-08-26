@@ -28,6 +28,8 @@
 • 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
 • 5th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-all-india.m3u">Sneh All India New v2.3 </a>  <br><br>
 • 6th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil-v2.m3u">Sneh Cloud Tamil v2 Playlists </a>  <br><br>
+• 7th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia.m3u">Sneh WatchIndia Playlists </a>  <br><br>
+
 • Right click on m3u playlists to copy and play in Tivimate App<br><br>
 • Click On Channels Which You Want to Play<br><br>
 • And Just Enjoy  
@@ -38,7 +40,12 @@
 ## 📽 Tivimate Pro v2.8.0
 
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
-• Only Play in Tivimate App<br><br>
+• Play in Tivimate App<br><br>
+
+## 📽 IPTV Smarters Pro v3.0.9
+
+• Download <a href="https://files.moddroid.com/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.0.9.4_-_Mod_-_Armeabi-v7a.apk">IPTV Smarters Pro v3.0.9</a> to Play Live Channels<br><br>
+• Also Play in IPTV Smarters App<br><br>
 
 ---
 
