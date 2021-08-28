@@ -12,7 +12,8 @@
 3 » Some Channels not Works<br>
 4 » Zee5 & Sony Channels Updated<br>
 5 » New Indian Channels Added<br>
-6 » Update your m3u files weekly from here<br>
+6 » Indian Radio Channels Added<br>
+7 » Update your m3u files weekly from here<br>
 
 </h4>
 
@@ -38,6 +39,11 @@
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil-v2.m3u">Sneh Cloud Tamil v2 Playlists </a>  <br><br>
  
+## Indian Radio Playlists
+
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Radio%20Playlists/sneh-radio.m3u">Radio Playlists </a>  <br><br>
+
+
 ## World Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv-channel's.m3u">All World Playlists </a>  <br><br>
