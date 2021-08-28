@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Color_Cineplex_HD.png" group-title="Sneh Movies",Colors Cineplex HD 
 http://140.238.229.42:3500/getm3u8/1477/Color_Cineplex_HD/yes
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_National.png" group-title="Sneh Entertainment",DD National 
@@ -92,6 +94,8 @@ http://140.238.229.42:3500/getm3u8/958/DNN/no
 http://140.238.229.42:3500/getm3u8/204/DD_Sports/no
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_HD.png" group-title="Sneh Sports",Ten 1 HD 
 http://140.238.229.42:3500/getm3u8/162/Ten_HD/yes
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten_1.png" group-title="Sneh Sports",Ten 1 
 http://140.238.229.42:3500/getm3u8/514/Ten_1/no
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Ten2_HD.png" group-title="Sneh Sports",Ten 2 HD 
@@ -140,6 +144,8 @@ http://140.238.229.42:3500/getm3u8/1463/Moti_Doongri/yes
 http://140.238.229.42:3500/getm3u8/1464/Daijiworld_TV_24X7/yes
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/News_J.png" group-title="Sneh News",News J 
 http://140.238.229.42:3500/getm3u8/1515/News_J/no
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/DD_News.png" group-title="Sneh News",DD News 
 http://140.238.229.42:3500/getm3u8/203/DD_News/no
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/ABP_News_India.png" group-title="Sneh News",ABP News India 
@@ -296,6 +302,8 @@ http://140.238.229.42:3500/getm3u8/542/Pogo_Tamil/no
 http://140.238.229.42:3500/getm3u8/546/Nick_Tamil/no
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/sonic_Tamil.png" group-title="Sneh Kids",sonic Tamil 
 http://140.238.229.42:3500/getm3u8/290/sonic_Tamil/no
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Sony_Yay_Tamil.png" group-title="Sneh Kids",Sony Yay Tamil 
 http://140.238.229.42:3500/getm3u8/873/Sony_Yay_Tamil/no
 #EXTINF:1 tvg-logo="http://140.238.229.42:3500/channelLogo/Discovery_Kids_Tamil.png" group-title="Sneh Kids",Discovery Kids Tamil 

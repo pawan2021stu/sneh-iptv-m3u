@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",& Pictures
 http://watchindia.net:8880/live/60275/20486/818.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",& Pictures HD
@@ -34,6 +36,8 @@ http://watchindia.net:8880/live/60275/20486/780.m3u8
 http://watchindia.net:8880/live/60275/20486/1924.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Gold India HD
 http://watchindia.net:8880/live/60275/20486/785.m3u8
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Gold Select HD
 http://watchindia.net:8880/live/60275/20486/784.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Movies HD
@@ -130,6 +134,8 @@ http://watchindia.net:8880/live/60275/20486/1035.m3u8
 http://watchindia.net:8880/live/60275/20486/1018.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary News
 http://watchindia.net:8880/live/60275/20486/1042.m3u8
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary World UK
 http://watchindia.net:8880/live/60275/20486/1041.m3u8
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary Zauk
@@ -1608,6 +1614,8 @@ http://watchindia.net:8880/movie/60275/20486/1838.mp4
 http://watchindia.net:8880/movie/60275/20486/1839.mkv
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Hera Pheri (1976)
 http://watchindia.net:8880/movie/60275/20486/1840.mkv
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Benaam (1974)
 http://watchindia.net:8880/movie/60275/20486/1841.mkv
 #EXTINF:-1 group-title="Sneh WatchIndia Plus",Mili (1975)

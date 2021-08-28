@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF: -1 tvg-logo="" group-title="Sneh RFTV JioTV",Dhinchaak
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF: -1 tvg-logo="" group-title="Sneh RFTV JioTV",Dhinchaak 2
@@ -78,6 +80,8 @@ http://14.199.164.20:4001/play/a0ve/index.m3u8
 http://14.199.164.20:4001/play/a0nv/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",Aastha Kannada
 http://14.199.164.20:4001/play/a0q0/index.m3u8
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh Regional",Aastha Tamil
 http://14.199.164.20:4001/play/a0py/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",Aastha Telugu
@@ -176,6 +180,8 @@ http://14.199.164.20:4001/play/a0u3/index.m3u8
 http://14.199.164.20:4001/play/a0u2/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",DEVDOOT
 http://14.199.164.20:4001/play/a0us/index.m3u8
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh Regional",DHOOM
 http://14.199.164.20:4001/play/a0sa/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",DILLAGIII
@@ -270,6 +276,8 @@ http://14.199.164.20:4001/play/a0rr/index.m3u8
 http://14.199.164.20:4001/play/a0qh/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",Iplus TV
 http://14.199.164.20:4001/play/a0sh/index.m3u8
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh Regional",JAI MAHARASTRA
 http://14.199.164.20:4001/play/a0r3/index.m3u8
 #EXTINF:-1 group-title="Sneh Regional",JAN TV

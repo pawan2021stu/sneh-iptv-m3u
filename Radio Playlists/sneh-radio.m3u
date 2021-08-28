@@ -1,6 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil",Hello FM 106.4
 https://stream.zenolive.com/4g65yz9gg0quv.aac
-
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil",Ayyapa Songs Radio
 http://69.197.169.178:28232/;
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil",Oli FM Singapore
@@ -65,6 +68,8 @@ http://listen.radio.garden/streams/c/chennai/ilayaraja-lite-radio.php?1531930750
 http://listen.radio.garden/streams/c/chennai/ilayaraja-radio.php?1531930773943
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", ILAYAMAAN
 http://212.83.138.48:8086/;stream.mp3
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", INBAM FM
 http://listen.radio.garden/streams/c/chennai/inbam-fm-radio.php?1531930832735
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", KJ YESUDAS
@@ -135,6 +140,8 @@ http://45.43.200.26:27114/stream
 http://217.182.165.146:8191/;stream.mp3
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", GTBC FM
 http://38.96.148.18:6150/;stream.mp3
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", Geetham 80s Songs
 http://www.geethamradio.com:8020/80s_hifi.mp3
 #EXTINF: -1,,group-title="Sneh RADIO | Tamil", Geetham New Hits
@@ -164,7 +171,8 @@ http://s2.voscast.com:9742/;
 
 
 
-
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF: -1, group-title="Sneh RADIO | Hindi",Fox News
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 #EXTINF: -1, group-title="Sneh RADIO | Hindi",Kumar Sanu Shemaroo

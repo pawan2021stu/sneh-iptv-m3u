@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:0,tvg-logo="https://pbs.twimg.com/profile_images/1103932714028158976/nQ0S8icS.png" group-title="Sneh PUNJABI",PITARAA HD
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="Sneh PUNJABI",Jhanjar HD
@@ -88,6 +90,8 @@ http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/431
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/423
 #EXTINF:-1 tvg-name="DD Punjabi" group-title="Sneh Punjabi",DD Punjabi
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/622
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-name="Sharda TV" group-title="Sneh Punjabi",Sharda TV
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/430
 #EXTINF:-1 tvg-name="BRIT ASIA" group-title="Sneh Punjabi",BRIT ASIA
@@ -130,6 +134,8 @@ http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1403
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1413
 #EXTINF:-1 tvg-name=" Living India" group-title="Sneh Punjabi", Living India
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/420
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-name=" AKAAL TV" group-title="Sneh Punjabi", AKAAL TV
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/422
 #EXTINF:-1 tvg-name="Ankhila punjab tv" group-title="Sneh Punjabi",Ankhila punjab tv

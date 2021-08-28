@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SNEH SONYLIV-LIVE",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SNEH SONYLIV-LIVE",SAB HD
@@ -45,7 +46,8 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sneh SonyLiv",BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 
 
 
@@ -89,6 +91,8 @@ https://ayushiz5tv.herokuapp.com?c=0-9-259
 https://ayushiz5tv.herokuapp.com?c=0-9-201 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",News24
 https://ayushiz5tv.herokuapp.com?c=0-9-206 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",India Today
 https://ayushiz5tv.herokuapp.com?c=0-9-indiatoday 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Tez
@@ -143,6 +147,8 @@ https://ayushiz5tv.herokuapp.com?c=0-9-zeetelugu
 https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Tamil
 https://ayushiz5tv.herokuapp.com?c=0-9-zeetamil 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol Cinema
 https://ayushiz5tv.herokuapp.com?c=0-9-zeeanmolcinema 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bollywood
@@ -249,6 +255,8 @@ https://ayushiz5tv.herokuapp.com?c=0-9-181
 https://ayushiz5tv.herokuapp.com?c=0-9-200 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&xplorHD
 https://ayushiz5tv.herokuapp.com?c=0-9-209 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Biskope
 https://ayushiz5tv.herokuapp.com?c=0-9-216 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Puthyugam TV

@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptv.iptvindia.tk/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbKerd0Gbn5LQFt5q1iwDgaUL6cpYC8DrMxTBDjxYKngnOlSf4lKqzjBD&s=10" group-title="Sneh RFTV JioTV" ,Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -69,6 +71,8 @@ https://viacom-b.multitvsolution.com/dashv/oscarmovies.mpd
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://i.ytimg.com/vi/sVDIDOWXzV8/maxresdefault.jpg" group-title="Sneh VOOT",Rishtey CinePlex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
 
 #EXTINF:-1 tvg-id="1158" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/surya%20cinema%2016x9-1611638322817.jpg" group-title="Sneh VOOT",Surya Cinema
 https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
@@ -10665,6 +10669,10 @@ https://iptv--iptv.repl.co/French/tele_sahel/
 #EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-logo="http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg" tvg-name="Türkmen Owazy" tvg-country="TM" tvg-language="Turkmen" group-title="Sneh All",Türkmen Owazy
 https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanTV.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" tvg-name="Türkmenistan TV" tvg-country="TM" tvg-language="Turkmen" group-title="Sneh All",Türkmenistan TV
+
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+https://github.com/techiesneh
+
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-id="UATV.ua" tvg-logo="" tvg-name="UA TV" tvg-country="UA" tvg-language="" group-title="Sneh All",UA TV
 http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
