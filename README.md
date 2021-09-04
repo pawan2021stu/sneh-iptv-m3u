@@ -25,14 +25,15 @@
  
 ## Indian Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Redjoy%20Playlists/sneh-iptv-v1.m3u">Sneh IPTV v1.0</a>  <br><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-new.m3u">Sneh IPTV v2.0</a>  <br><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-all-india.m3u">Sneh All India New v2.3 </a>  <br><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia.m3u">Sneh WatchIndia Playlists </a>  <br><br> 
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-iptv-new.m3u">Sneh IPTV v2.0</a>  <br><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia-plu.m3u">Sneh WatchIndia Plus </a>  <br><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia.m3u">Sneh WatchIndia Playlists </a>  <br><br> 
  
 ## Zee5 & Sony Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sony-sneh-iptv.m3u">Sneh Sony Playlists </a><br><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br><br>
  
 ## Tamil Playlists
 
