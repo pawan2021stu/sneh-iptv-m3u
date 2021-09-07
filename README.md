@@ -30,7 +30,7 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u">Sneh IPTV v3.0</a>  <br><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia-plus.m3u">Sneh WatchIndia Plus </a>  <br><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new-gif-icon-14.gif" width="25" height="25"></p> Sneh Weekly Updated Playlist </a>  <br><br> 
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Weekly Updated Playlist </a>  <br><br> 
  
 ## Zee5 & Sony Playlists
 
@@ -41,8 +41,13 @@
 ## Tamil Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil.m3u">Sneh Cloud Tamil Playlists </a>  <br><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil-v2.m3u">Sneh Cloud Tamil v2 Playlists </a>  <br><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-tamil.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Tamil Playlists </a>  <br><br>
  
+## Telugu Playlists
+
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Telugu%20Playlists/sneh-telugu.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Telugu Playlists </a>  <br><br>
+
+
 ## Indian Radio Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Radio%20Playlists/sneh-radio.m3u">Radio Playlists </a>  <br><br>
