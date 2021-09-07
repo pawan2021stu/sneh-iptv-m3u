@@ -30,7 +30,7 @@
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u">Sneh IPTV v3.0</a>  <br><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia-plus.m3u">Sneh WatchIndia Plus </a>  <br><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u">Sneh Weekly Updated Playlist </a>  <br><br> 
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new-gif-icon-14.gif" width="25" height="25"></p> Sneh Weekly Updated Playlist </a>  <br><br> 
  
 ## Zee5 & Sony Playlists
 
