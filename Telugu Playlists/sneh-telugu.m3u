@@ -2,111 +2,49 @@
 
 #EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
 https://github.com/techiesneh
-#EXTINF:-1 group-title="Sneh Telugu Channels",SVBC
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/371
-#EXTINF:-1 group-title="Sneh Telugu Channels",BHAKTI TV
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40852
-#EXTINF:-1 group-title="Sneh Telugu Channels",STAR Maa HD 
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/87330
-#EXTINF:-1 group-title="Sneh Telugu Channels",STAR MAA HD 2
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40866
-#EXTINF:-1 group-title="Sneh Telugu Channels",ETV HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40855
-#EXTINF:-1 group-title="Sneh Telugu Channels",ETV SD
-http://watchindia.net:8880/live/33253/72963/2203.ts
-#EXTINF:-1 group-title="Sneh Telugu Channels",Zee Telugu HD
-https://ayushiz5tv.herokuapp.com?c=0-9-zeetelugu
-#EXTINF:-1 group-title="Sneh Telugu Channels",GEMINI HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40856
-#EXTINF:-1 group-title="Sneh Telugu Channels",MAA MOVIES HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40860
-#EXTINF:-1 group-title="Sneh Telugu Channels",GEMINI MOVIES HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52813
-#EXTINF:-1 group-title="Sneh Telugu Channels",ZEE CINEMALU HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40871
-#EXTINF:-1 group-title="Sneh Telugu Channels",TATA SKY TELUGU CINEMA HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40867
-#EXTINF:0 tvg-id="ext" group-title="Sneh Telugu Channels",Gemini Life 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-http://watchindia.net:8880/live/33253/72963/931.ts
-#EXTINF:-1 group-title="Sneh Telugu Channels",STAR MAA GOLD HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40865
-#EXTINF:-1 group-title="Sneh Telugu Channels",ETV CINEMA
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40854
-#EXTINF:-1 group-title="Sneh Telugu Channels",Telugu Box Office
-http://watchindia.net:8880/live/33253/72963/2155.t
-#EXTINF:-1 group-title="Sneh Telugu Channels",SHREYAS TV
-https://tv.capitalfi.net:4403/Shreyas/live/index.m3u8
-#EXTINF:-1 group-title="Sneh Telugu Channels",STAR MAA Music
-https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/1504
-#EXTINF:0 group-title="Sneh Telugu Channels",Gemini Music HD
-http://watchindia.net:8880/live/33253/72963/929.ts
-#EXTINF:-1 group-title="Sneh Telugu Channels",RAJ MUSIC TELUGU
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40862
-#EXTINF:-1 group-title="Sneh Telugu Channels",HISTORY 18 TELUGU H
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40858
-#EXTINF:-1 group-title="Sneh Telugu Channels",NATIONAL GEOGRAPHIC HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40861
-#EXTINF:-1 group-title="Sneh Telugu Channels",SONY BBC EARTH HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40864
-#EXTINF:-1 group-title="Sneh Telugu Channels",DISCOVERY WORLD HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40853
-#EXTINF:-1 group-title="Sneh Telugu Channels",ETV Plus
-http://watchindia.net:8880/live/33253/72963/937.t
-#EXTINF:-1 group-title="Sneh Telugu Channels",Gemini Comedy
-http://watchindia.net:8880/live/33253/72963/971.ts
-#EXTINF:-1 group-title="Sneh Telugu Channels",DD SAPTAGIRI
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40874
-EXTINF:-1 group-title="Sneh Telugu News",TV9 NEWS
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40868
-EXTINF:-1 group-title="Sneh Telugu News",V6 NEWS
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/40869
-#EXTINF:-1 group-title="Sneh Telugu News",ABN ANDHRA JYOTH
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52794
-#EXTINF:-1 group-title="group-title="Sneh Telugu Kids",CARTOON NETWORK
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52798
-#EXTINF:-1 group-title="Sneh Telugu News",ETV ANDHRA PRADESH
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52806
-#EXTINF:-1 group-title="Sneh Telugu News",HM TV
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52819
-#EXTINF:-1 group-title="group-title="Sneh Telugu Kids",KUSHI TV
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52823
-#EXTINF:-1 group-title="group-title="Sneh Telugu Kids",NICK
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52827
-#EXTINF:-1 group-title="Sneh Telugu News",NTV
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52828
-#EXTINF:-1 group-title="Sneh Telugu News",SAKSHI TV
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52833
-#EXTINF:-1 group-title="Sneh Telugu News",TV 5 NEWS
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52838
-#EXTINF:-1 group-title="Sneh Telugu News",TV9 News
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52839
-#EXTINF:-1 group-title="Sneh Telugu News",V6 NEWS
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/52843
-#EXTINF:-1 group-title="Sneh Telugu News",10tv
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/86086
-#EXTINF:-1 group-title="Sneh Telugu News",AP_24X7
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/86093
-#EXTINF:-1 group-title="Sneh Cricket", SONY SIX HD
-https://bit.ly/3h6sIXHd
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 group-title="Sneh Cricket",STAR SPORTS 1 FHD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/83997
-#EXTINF:-1 group-title="Sneh Cricket",STAR SPORTS 1 FHD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/83998
-#EXTINF:-1 group-title="Sneh Cricket",SuperSport Cricket FHD (ZA)
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/138734
-#EXTINF:-1 group-title="Sneh Cricket",SuperSport Cricket HD (UG)
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/138733
-#EXTINF:-1 group-title="Sneh Cricket",SKY SPORTS CRICKET HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/10527
-#EXTINF:-1 group-title="Sneh Cricket",SKY SPORTS FHD CRICKET
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/10522
-#EXTINF:-1 group-title="Sneh Cricket",SKY SPORTS CRICKET FHD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/50274
-#EXTINF:-1 group-title="Sneh Cricket",SKY SPORTS CRICKET
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/13814
-#EXTINF:-1 group-title="Sneh Cricket",Willow Cricket Canada HD
-http://ts.nsfms.com:2082/Red123_394985/sikXriN2I7/6959
+#EXTINF:-1,Sneh TELUGU (HD)- BHAKTI TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40852
+#EXTINF:-1,Sneh TELUGU (HD)- DISCOVERY WORLD HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40853
+#EXTINF:-1,Sneh TELUGU (HD)- ETV CINEMA
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40854
+#EXTINF:-1,Sneh TELUGU (HD)- ETV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40855
+#EXTINF:-1,Sneh TELUGU (HD)- GEMINI HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40856
+#EXTINF:-1,Sneh TELUGU (HD)- GEMINI MOVIES HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40857
+#EXTINF:-1,Sneh TELUGU (HD)- HISTORY 18 TELUGU HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40858
+#EXTINF:-1,Sneh TELUGU (HD)- JAYA MAX
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40859
+#EXTINF:-1,Sneh TELUGU (HD)- MAA MOVIES HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40860
+#EXTINF:-1,Sneh TELUGU (HD)- NATIONAL GEOGRAPHIC HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40861
+#EXTINF:-1,Sneh TELUGU (HD)- RAJ MUSIC TELUGU
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40862
+#EXTINF:-1,Sneh TELUGU (HD)- RAJ NEWS TELUGU
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40863
+#EXTINF:-1,Sneh TELUGU (HD)- SONY BBC EARTH HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40864
+#EXTINF:-1,Sneh TELUGU (HD)- STAR MAA GOLD HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40865
+#EXTINF:-1,Sneh TELUGU (HD)- STAR MAA HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
+#EXTINF:-1,Sneh TELUGU (HD)- TATA SKY TELUGU CINEMA HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40867
+#EXTINF:-1,Sneh TELUGU (HD)- TV9 NEWS
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40868
+#EXTINF:-1,Sneh TELUGU (HD)- V6 NEWS
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40869
+#EXTINF:-1,Sneh TELUGU (HD)- VANITHA TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40870
+#EXTINF:-1,Sneh TELUGU (HD)- ZEE CINEMALU HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40871
+#EXTINF:-1,Sneh TELUGU (HD)- ZEE CINEMALU SD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40872
+#EXTINF:-1,Sneh TELUGU (HD)- ZEE TELUGU HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40873
+#EXTINF:-1,Sneh TELUGU (HD)- DD SAPTAGIRI
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40874
