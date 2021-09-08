@@ -49,13 +49,13 @@
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-tamil.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Tamil Playlists </a>  <br><br>
  
  
- <p align="left"><img src="images/telugu.gif" width="50" height="30"></p>
+ <p align="left"><img src="images/telugu.png" width="50" height="40"></p>
 ## Telugu Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Telugu%20Playlists/sneh-telugu.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Telugu Playlists </a>  <br><br>
 
 
-<p align="left"><img src="images/radio.gif" width="100" height="50"></p>
+<p align="left"><img src="images/radio.gif" width="90" height="50"></p>
 ## Indian Radio Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Radio%20Playlists/sneh-radio.m3u">Radio Playlists </a>  <br><br>
