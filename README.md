@@ -26,17 +26,17 @@
 
 <h4>
  
- <p align="left"><img src="images/india.gif" width="100" height="50"></p>
+ <p align="left"><img src="images/india.gif" width="120" height="50"></p>
 ## Indian Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u">Sneh IPTV v3.0</a>  <br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia-plus.m3u">Sneh WatchIndia Plus </a>  <br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Weekly Updated Playlist </a>  <br><br> 
 
-<p align="left"><img src="images/nick.gif" width="150" height="50"></p>
+<p align="left"><img src="images/nick.gif" width="180" height="50"></p>
 ## Kids Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-kids.m3u">Sneh Kids Playlist</a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kids.m3u"><img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Kids Playlist</a>  <br><br>
 
 
  <p align="left"><img src="images/zee5.png" width="40" height="40"><img src="images/sony.gif" width="50" height="50"></p>
@@ -47,14 +47,16 @@
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br><br>
  
  
- <p align="left"><img src="images/tamil.gif" width="50" height="50"></p>
+ <p align="left"><img src="images/tamil.gif" width="50" height="50"><img src="images/zeetamil.png" width="50" height="50"></p>
+
 ## Tamil Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-cloudtamil.m3u">Sneh Cloud Tamil Playlists </a>  <br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-tamil.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Tamil Playlists </a>  <br><br>
  
  
- <p align="left"><img src="images/telugu.png" width="50" height="40"></p>
+ <p align="left"><img src="images/telugu.png" width="50" height="40"><img src="images/telugu1.png" width="50" height="50"></p>
+
 ## Telugu Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Telugu%20Playlists/sneh-telugu.m3u"> <img src="images/new-gif-icon-14.gif" width="25" height="25"> Sneh Telugu Playlists </a>  <br><br>
