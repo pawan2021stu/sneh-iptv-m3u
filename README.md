@@ -83,7 +83,7 @@
 
 ## Indian Movies Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-hindi-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Punjabi Playlist</a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-hindi-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Movies Playlist</a>  <br><br>
 
 
 <p align="left"><img src="images/world.gif" width="100" height="50"></p>
