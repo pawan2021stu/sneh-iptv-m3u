@@ -1,12 +1,12 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v3.1 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v3.2 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
 
-## 🍃 Updates v3.1 : 
+## 🍃 Updates v3.2 : 
  
 <h4>
 
@@ -16,7 +16,8 @@
 4 » Zee5 & Sony Channels Updated<br>
 5 » New Indian Channels Added<br>
 6 » Indian Radio Channels Added<br>
-7 » Update your m3u files weekly from here<br>
+7 » Indian Movies Playlists Added<br> 
+8 » Update your m3u files weekly from here<br>
 
 </h4>
 
@@ -26,7 +27,7 @@
 
 <h4>
  
- <p align="left"><img src="images/india.gif" width="120" height="50"></p>
+ <p align="left"><img src="images/india.gif" width="100" height="50"></p>
 
 ## Indian Playlists
 
@@ -34,21 +35,21 @@
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-watchindia-plus.m3u">Sneh WatchIndia Plus </a>  <br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Weekly Updated Playlist </a>  <br><br> 
 
-<p align="left"><img src="images/nick.gif" width="180" height="50"></p>
+<p align="left"><img src="images/nick.gif" width="150" height="50"></p>
 
 ## Kids Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kids.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Kids Playlist</a>  <br><br>
 
 
-<p align="left"><img src="images/sports.gif" width="40" height="40"><img src="images/sony.gif" width="50" height="50"></p>
+<p align="left"><img src="images/sports.gif" width="100" height="50"></p>
 
 ## Sports Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sports-india.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Sports Playlist</a>  <br><br>
 
 
-<p align="left"><img src="images/zee5.png" width="40" height="40"><img src="images/sony.gif" width="50" height="50"></p>
+<p align="left"><img src="images/zee5.png" width="38" height="38"><img src="images/sony.gif" width="50" height="50"></p>
 
 ## Zee5 & Sony Playlists
 
@@ -57,7 +58,7 @@
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br><br>
  
  
-<p align="left"><img src="images/tamil.gif" width="50" height="50"><img src="images/zeetamil.png" width="50" height="50"></p>
+<p align="left"><img src="images/tamil.gif" width="50" height="50"><img src="images/zeetamil.png" width="40" height="40"></p>
 
 ## Tamil Playlists
 
@@ -65,34 +66,34 @@
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Tamil%20Playlists/sneh-tamil.m3u"> <img src="images/new.gif" width="25" height="25"> Sneh Tamil Playlists </a>  <br><br>
  
  
-<p align="left"><img src="images/telugu.png" width="50" height="40"><img src="images/telugu1.png" width="50" height="50"></p>
+<p align="left"><img src="images/telugu.png" width="45" height="35"><img src="images/telugu1.png" width="35" height="35"></p>
 
 ## Telugu Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Telugu%20Playlists/sneh-telugu.m3u"> <img src="images/new.gif" width="25" height="25"> Sneh Telugu Playlists </a>  <br><br>
 
-<p align="left"><img src="images/punjabi.gif" width="50" height="50"></p>
+<p align="left"><img src="images/punjabi.gif" width="100" height="50"></p>
 
 ## Punjabi Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/punjabi.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Punjabi Playlist</a>  <br><br>
 
 
-<p align="left"><img src="images/movies.gif" width="40" height="40"><img src="images/sony.gif" width="50" height="50"></p>
+<p align="left"><img src="images/movies.gif" width="100" height="50"></p>
 
 ## Indian Movies Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-hindi-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Punjabi Playlist</a>  <br><br>
 
 
-<p align="left"><img src="images/world.png" width="40" height="40"><img src="images/sony.gif" width="50" height="50"></p>
+<p align="left"><img src="images/world.png" width="50" height="50"></p>
 
 ## World Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv-channel's.m3u">All World Playlists </a>  <br><br>
 
 
-<p align="left"><img src="images/radio.gif" width="90" height="50"></p>
+<p align="left"><img src="images/radio.gif" width="100" height="50"></p>
 
 ## Indian Radio Playlists
 
