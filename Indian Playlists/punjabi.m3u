@@ -1,142 +1,23 @@
-#EXTM3U 
-
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+﻿#EXTM3U 
+#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 https://github.com/techiesneh
-#EXTINF:0,tvg-logo="https://pbs.twimg.com/profile_images/1103932714028158976/nQ0S8icS.png" group-title="Sneh PUNJABI",PITARAA HD
-https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist.m3u8
-#EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="Sneh PUNJABI",Jhanjar HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="Sneh PUNJABI",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" group-title="Sneh PUNJABI",MH1 Music
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" ,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="Sneh PUNJABI",Punjabi Zindabad
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/hzFatTk.png" ,Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="Sneh PUNJABI",BritAsia TV 
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" ,BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" group-title="Sneh PUNJABI",Hulchul TV
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" ,Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:0  tvg-logo="https://image.winudf.com/v2/image/ZmFzdHdheS5saXZlX3R2X2NoYW5uZWxfaWNvbl8wXzEwOTk5Y2Ux/icon.png?w=170&fakeurl=1" group-title="Sneh PUNJABI",FastWay  
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="Sneh PUNJABI",DD National 
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/ExkhL2U.png" ,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="Sneh PUNJABI",DD News
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/637936076590440448/mmN3Fnsa_400x400.jpg" group-title="Sneh PUNJABI",FASTWAY NEWS
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://pbs.twimg.com/profile_images/637936076590440448/mmN3Fnsa_400x400.jpg",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
-#EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Sneh PUNJABI",Balle Balle
-https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="CKT.IN" tvg-logo="http://live.timetv.news/uploads/tv_image/time-tv-live.png" group-title="Sneh PUNJABI",Chardik Time
-http://radio.lapunjabiradio.com/hls/chardikalatimetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" group-title="Sneh PUNJABI",Channel Y
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" ,Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rStIuAU.png" group-title="Sneh PUNJABI",DD Punjabi 
-http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-#EXTINF:0, tvg-logo="https://i.imgur.com/TOMaYDK.png" group-title="Sneh PUNJABI",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:0,ttvg-logo="https://i.imgur.com/PB7QMfb.png"" group-title="Sneh PUNJABI",Amar Ujala 
+#EXTINF:0 group-title="Sneh PUNJABI" tvg-logo="https://i.imgur.com/PB7QMfb.png",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Sneh PUNJABI", Zee Punjabi
-http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5lLRKyWMDacXykm4NJWVeZni578nOIgBcRywa4i4-fZwImFADXol0wsh-W5SaU4f9Lb3" group-title="Sneh PUNJABI",PTN 24
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://lh3.googleusercontent.com/5lLRKyWMDacXykm4NJWVeZni578nOIgBcRywa4i4-fZwImFADXol0wsh-W5SaU4f9Lb3" ,PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="Sneh PUNJABI",Prime Asia
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" ,Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Kanshi tv UK" group-title="Sneh Punjabi",Kanshi tv UK
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1631
-#EXTINF:-1 tvg-name="5 AAB TV" group-title="Sneh Punjabi",5 AAB TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1380
-#EXTINF:-1 tvg-name="PRIME ASIA" group-title="Sneh Punjabi",PRIME ASIA
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/417
-#EXTINF:-1 tvg-name="ZEE Punjabi" group-title="Sneh Punjabi",ZEE Punjabi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/418
-#EXTINF:-1 tvg-name="APNA PUNJAB" group-title="Sneh Punjabi",APNA PUNJAB
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1416
-#EXTINF:-1 tvg-name="PTC PUNJAB" group-title="Sneh Punjabi",PTC PUNJAB
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/435
-#EXTINF:-1 tvg-name="PTC Punjabi UK" group-title="Sneh Punjabi",PTC Punjabi UK
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1414
-#EXTINF:-1 tvg-name="PTC Punjabi" group-title="Sneh Punjabi",PTC Punjabi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/722
-#EXTINF:-1 tvg-name="PTC NEWS" group-title="Sneh Punjabi",PTC NEWS
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/427
-#EXTINF:-1 tvg-name="MH 1 NEWS" group-title="Sneh Punjabi",MH 1 NEWS
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/428
-#EXTINF:-1 tvg-name="INDIA NEWS PUNJAB" group-title="Sneh Punjabi",INDIA NEWS PUNJAB
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1407
-#EXTINF:-1 tvg-name="Maha Punjabi" group-title="Sneh Punjabi",Maha Punjabi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1415
-#EXTINF:-1 tvg-name="SIKH CHANNEL UK" group-title="Sneh Punjabi",SIKH CHANNEL UK
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1332
-#EXTINF:-1 tvg-name=" sangat tv" group-title="Sneh Punjabi", sangat tv
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/369
-#EXTINF:-1 tvg-name="VISION Punjabi Gurbani HD" group-title="Sneh Punjabi",VISION Punjabi Gurbani HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1406
-#EXTINF:-1 tvg-name="VISION PUNJAB HD" group-title="Sneh Punjabi",VISION PUNJAB HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1398
-#EXTINF:-1 tvg-name="Vision punjab music HD" group-title="Sneh Punjabi",Vision punjab music HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1420
-#EXTINF:-1 tvg-name="PTC MUSIC" group-title="Sneh Punjabi",PTC MUSIC
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1417
-#EXTINF:-1 tvg-name="PTC Chak DE" group-title="Sneh Punjabi",PTC Chak DE
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1400
-#EXTINF:-1 tvg-name="DESI CHANNEL" group-title="Sneh Punjabi",DESI CHANNEL
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/421
-#EXTINF:-1 tvg-name="PB: GABRUU TV" group-title="Sneh Punjabi",PB: GABRUU TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/425
-#EXTINF:-1 tvg-name=" PITAARA" group-title="Sneh Punjabi", PITAARA
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/431
-#EXTINF:-1 tvg-name="5 AAB GURBANI" group-title="Sneh Punjabi",5 AAB GURBANI
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/423
-#EXTINF:-1 tvg-name="DD Punjabi" group-title="Sneh Punjabi",DD Punjabi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/622
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 tvg-name="Sharda TV" group-title="Sneh Punjabi",Sharda TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/430
-#EXTINF:-1 tvg-name="BRIT ASIA" group-title="Sneh Punjabi",BRIT ASIA
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/432
-#EXTINF:-1 tvg-name="HAMDARD TV" group-title="Sneh Punjabi",HAMDARD TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/426
-#EXTINF:-1 tvg-name="PTC DHOL TV" group-title="Sneh Punjabi",PTC DHOL TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1412
-#EXTINF:-1 tvg-name="PBN MUSIC" group-title="Sneh Punjabi",PBN MUSIC
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/424
-#EXTINF:-1 tvg-name="World Punjabi" group-title="Sneh Punjabi",World Punjabi
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1405
-#EXTINF:-1 tvg-name="Aaho music HD" group-title="Sneh Punjabi",Aaho music HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1408
-#EXTINF:-1 tvg-name=" MH 1 MUSIC" group-title="Sneh Punjabi", MH 1 MUSIC
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/419
-#EXTINF:-1 tvg-name="FASTWAY TV" group-title="Sneh Punjabi",FASTWAY TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1401
-#EXTINF:-1 tvg-name="SHARDA MH ONE" group-title="Sneh Punjabi",SHARDA MH ONE
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1399
-#EXTINF:-1 tvg-name="SARDARI TV" group-title="Sneh Punjabi",SARDARI TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1404
-#EXTINF:-1 tvg-name="FATEH TV" group-title="Sneh Punjabi",FATEH TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1410
-#EXTINF:-1 tvg-name="PB: PTC SIMRAN" group-title="Sneh Punjabi",PB: PTC SIMRAN
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1419
-#EXTINF:-1 tvg-name="5 AAB MUSIC" group-title="Sneh Punjabi",5 AAB MUSIC
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1411
-#EXTINF:-1 tvg-name="Abp Sanjha Punjab" group-title="Sneh Punjabi",Abp Sanjha Punjab
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1402
-#EXTINF:-1 tvg-name=" 9x Tashan" group-title="Sneh Punjabi", 9x Tashan
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/429
-#EXTINF:-1 tvg-name="boogle bollywood" group-title="Sneh Punjabi",boogle bollywood
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1418
-#EXTINF:-1 tvg-name="Alpha etc punjab" group-title="Sneh Punjabi",Alpha etc punjab
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1409
-#EXTINF:-1 tvg-name="Channel Y" group-title="Sneh Punjabi",Channel Y
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1403
-#EXTINF:-1 tvg-name="PTC Punjabi Gold" group-title="Sneh Punjabi",PTC Punjabi Gold
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1413
-#EXTINF:-1 tvg-name=" Living India" group-title="Sneh Punjabi", Living India
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/420
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 tvg-name=" AKAAL TV" group-title="Sneh Punjabi", AKAAL TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/422
-#EXTINF:-1 tvg-name="Ankhila punjab tv" group-title="Sneh Punjabi",Ankhila punjab tv
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/433
