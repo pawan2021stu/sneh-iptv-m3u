@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh SonyLiv",Techie Sneh
 https://github.com/techiesneh
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SNEH SONYLIV-LIVE",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
@@ -15,7 +15,7 @@ https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SNEH SONYLIV-LIVE",SONY YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SNEH SONYLIV-LIVE",SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SNEH SONYLIV-LIVE",SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SNEH SONYLIV-LIVE",SONY WAH
@@ -46,11 +46,8 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
  https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Sneh SonyLiv",BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh SonyLiv",Techie Sneh
 https://github.com/techiesneh
-
-
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",24 Ghanta
 https://snehz5tv.herokuapp.com?c=0-9-24ghantatv 
@@ -92,7 +89,7 @@ https://snehz5tv.herokuapp.com?c=0-9-259
 https://snehz5tv.herokuapp.com?c=0-9-201 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",News24
 https://snehz5tv.herokuapp.com?c=0-9-206 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="SNEH ZEE5 LIVE",Techie Sneh
 https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",India Today
 https://snehz5tv.herokuapp.com?c=0-9-indiatoday 
@@ -148,7 +145,7 @@ https://snehz5tv.herokuapp.com?c=0-9-zeetelugu
 https://snehz5tv.herokuapp.com?c=0-9-zeebanglacinema 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Tamil
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="SNEH ZEE5 LIVE",Techie Sneh
 https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol Cinema
 https://snehz5tv.herokuapp.com?c=0-9-zeeanmolcinema 
@@ -256,7 +253,7 @@ https://snehz5tv.herokuapp.com?c=0-9-181
 https://snehz5tv.herokuapp.com?c=0-9-200 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&xplorHD
 https://snehz5tv.herokuapp.com?c=0-9-209 
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
+#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="SNEH ZEE5 LIVE",Techie Sneh
 https://github.com/techiesneh
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Biskope
 https://snehz5tv.herokuapp.com?c=0-9-216 

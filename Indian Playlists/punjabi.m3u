@@ -1,5 +1,5 @@
 ﻿#EXTM3U 
-#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 https://github.com/techiesneh
 #EXTINF:-1 group-title="Sneh PUNJABI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" ,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
@@ -23,6 +23,7 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Apna Punjab
@@ -45,6 +46,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 https://wowzaprod142-i.akamaihd.net/hls/live/592898/387dc47a/playlist.m3u8
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:-1 group-title="Sneh PUNJABI" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",GDNS Surrey
 http://live.agmediachandigarh.com/dukhnivaransahib/bfc254e2e8c0e9cb0f8318c493e8c78d.sdp/mono.m3u8
 #EXTINF:-1  group-title="Sneh Punjabi" tvg-logo="N/A",Jhanjar Music

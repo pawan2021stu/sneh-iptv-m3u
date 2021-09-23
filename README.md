@@ -6,7 +6,7 @@
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
 
-## 🍃 Updates v3.2 : 
+<h2> 🍃 Updates v3.2 : </h2>
  
 <h4>
 
@@ -23,7 +23,7 @@
 
 <br> 
 
-## 📺 How To Download & Use : 
+<h2> 📺 How To Download & Use : </h2>
 
 <h4>
  
@@ -107,15 +107,31 @@
  
 ---
  
-## 📽 Tivimate Premium v2.8.0
+### 📽 Tivimate Premium v2.8.0
 
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
 • Play in Tivimate App<br><br>
 
-## 📽 IPTV Smarters Pro v3.0.9
+### 📺 IPTVNator v8.0 ( FOR PC )
+
+• Download <a href="https://github.com/4gray/iptvnator/releases/download/v0.8.0/iptvnator-Setup-0.8.0.exe">IPTVNator v8.0</a> to Play Live Channels<br><br>
+• Also Play in IPTVNator App<br><br>
+
+### 🎶 IPTV Smarters Pro v3.0.9
 
 • Download <a href="https://files.moddroid.com/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.0.9.4_-_Mod_-_Armeabi-v7a.apk">IPTV Smarters Pro v3.0.9</a> to Play Live Channels<br><br>
 • Also Play in IPTV Smarters App<br><br>
+
+### 🎥 OTT Navigator Pro v1.6.5
+
+• Download <a href="https://files.moddroid.co/OTT%20Navigator%20IPTV/OTT_NAVIGATOR_1.6.5.5_MustHave.apk">OTT Navigator Pro v1.6.5</a> to Play Live Channels<br><br>
+• Also Play in OTT Navigator App<br><br>
+
+### 📽 IPTV Pro v6.1.9
+
+• Download <a href="https://files.moddroid.co/IPTV%20Pro/IPTV_Pro-v6.1.9_build_1101-Mod-armeabi-v7a.apk">IPTV Pro v6.1.9</a> to Play Live Channels<br><br>
+• Also Play in IPTV Pro App<br><br>
+
 
 ---
 
@@ -123,7 +139,7 @@
 <br>
 
 
-## 🍁 Given Below Are List of Some Screenshots Of Sneh IPTV : 
+<h2> 🍁 Given Below Are List of Some Screenshots Of Sneh IPTV : </h2>
 
 
 <div>
@@ -137,13 +153,13 @@
 
 <br> 
 
-## 🎫 Licence
+<h2> 🎫 Licence </h2>
 Apache 2.0 © Techie Sneh<br>
 
-## ✉️ Contact Us
+<h2> ✉️ Contact Us
 [Techie Sneh](https://telegram.me/techiesneh)
 
-## Star this Repo if you Liked it ⭐⭐⭐
+<h4> Star ✨ this Repo if you Liked 👌 it ⭐⭐⭐ </h4>
 
 ---
 <h5 align='center'>© 2021 Techie Sneh</h5>
