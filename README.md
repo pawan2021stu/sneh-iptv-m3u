@@ -153,10 +153,10 @@
 
 <br> 
 
-<h2> 🎫 Licence </h2>
+<h3> 🎫 Licence : </h3>
 Apache 2.0 © Techie Sneh<br>
 
-<h2> ✉️ Contact Us
+<h3> ✉️ Contact Us : </h3>
 [Techie Sneh](https://telegram.me/techiesneh)
 
 <h4> Star ✨ this Repo if you Liked 👌 it ⭐⭐⭐ </h4>
