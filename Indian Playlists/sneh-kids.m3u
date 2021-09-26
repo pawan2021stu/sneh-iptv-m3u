@@ -2,34 +2,53 @@
 
 #EXTINF: -1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Kids", Nick Hindi
 http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Kids", Nick Hindi
+http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
 http://70.39.83.58:8278/pogohindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
 https://github.com/techiesneh
+#EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
+http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network English
+http://212.102.60.76:80/o1/mono.m3u8
 #EXTINF: -1 tvg-id="004" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sneh Kids", Sonic Hindi
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF: -1 tvg-id="005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Kids", Sony Yay Hindi
-http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
 https://github.com/techiesneh
+#EXTINF: -1 tvg-id="005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Kids", Sony Yay Hindi
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="006" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Kids", Discovery Kids Hindi
 https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF: -1 tvg-id="007" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sneh Kids", Nick Junior Hindi
 http://70.39.83.58:8278/nickjrhindikdin/playlist.m3u8
 #EXTINF: -1 tvg-id="008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci9nNxZ0q978QGWLhdeDhoZhEutYybSHIAw&usqp=CAU" group-title="Sneh Kids", Disney Jr. Hindi
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
-#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
-https://github.com/techiesneh
 #EXTINF: -1 tvg-id="009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Sneh Kids", Hungama Hindi
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Sneh Kids", Hungama Hindi
+http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF: -1 tvg-id="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU" group-title="Sneh Kids", WoW Kids Hindi
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ Hindi
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
-
-
-
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ Hindi
+http://pkr.cinepex.tv:8278/marvelhqhindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF: -1 tvg-id="012" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU" group-title="Sneh Kids", Disney Channel Hindi
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF: -1 tvg-id="012" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPggdSKlxZEinL_IeTKisukS9ih01YOPZyw&usqp=CAU" group-title="Sneh Kids", Disney Channel Hindi
+http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
+https://github.com/techiesneh
+#EXTINF: -1 tvg-id="013" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCFIc9jis44cnJYRHx7hcqAlYkx8RoVXhsw&usqp=CAU" group-title="Sneh Kids", Disney XD English
+http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 
 
