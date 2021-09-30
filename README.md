@@ -107,7 +107,7 @@
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv-channel's.m3u">All World Playlists </a>  <br><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-allindia.m3u">All India Playlists </a>  <br><br>
 • 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-usachannels.m3u">USA Channels Playlists </a>  <br><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worlds-movies.m3u.m3u">Sneh Collection of Worlds 61,000 Movies Playlist </a>  <br><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worlds-movies.m3u">Sneh Collection of Worlds 61,000 Movies Playlist </a>  <br><br>
 
 
 <p align="left"><img src="images/radio.gif" width="100" height="50"></p>
