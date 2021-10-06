@@ -40,7 +40,7 @@
 ### Indian Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv-premium.m3u"><img src="images/new.gif" width="25" height="25"> Sneh WatchIndia v2.1 </a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u"><img src="images/new.gif" width="25" height="25"> Sneh IPTV+ </a>  <br>
+• 2nd Link : <a href="https://github.com/techiesneh/sneh-iptv-m3u/blob/main/Indian%20Playlists/snehtvall.m3u"><img src="images/new.gif" width="25" height="25"> Sneh World IPTV+ </a>  <br>
 • 3rdLink : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Weekly Updated </a>  <br> 
 • 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u"><img src="images/new.gif" width="25" height="25">  Sneh AirtelTV Updated </a>  <br><br> 
 
