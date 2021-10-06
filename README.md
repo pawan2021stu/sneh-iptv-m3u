@@ -47,7 +47,7 @@
 
 <p align="left"><img src="images/nick.gif" width="150" height="50"></p>
 
-### Kids Playlists
+### Kids Playlists [ OFFLINE ]
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kids.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Kids Playlist</a>  <br><br>
 
