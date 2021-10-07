@@ -29,6 +29,7 @@
 
 ### TechieSneh IPTV+ v3.5
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
+• Worlds Channels Added <br>
 • 1st Link : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.5</a>  <br>
 • Right click on m3u playlists to copy and play in Tivimate App<br>
 • Click On Channels Which You Want to Play<br>
