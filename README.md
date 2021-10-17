@@ -1,19 +1,19 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v3.5 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v3.6 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
 
-<h2> 🍃 Updates v3.5 : </h2>
+<h2> 🍃 Updates v3.6 : </h2>
  
 <h4>
 
 1 » Worldwide Channels Added<br>
 2 » All Indian Channels Works<br>
 3 » Some Channels not Works<br>
-4 » Zee5, MX & Sony Channels Updated<br>
+4 » Zee5, Voot, MX & Sony Channels Updated<br>
 5 » New Indian Channels Added<br>
 6 » Indian Radio Channels Added<br>
 7 » Indian Movies Playlists Added<br> 
@@ -62,11 +62,12 @@
 
 <p align="left"><img src="images/zee5.png" width="38" height="38"><img src="images/sony.gif" width="50" height="50"></p>
 
-### Zee5 & Sony Playlists
+### Zee5, Sony, MX & Voot Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony%26Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony-Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
 • 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sony-sneh-iptv.m3u">Sneh Sony Playlists </a><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-voot.m3u">Sneh Voot Playlists </a><br><br>
  
  
 <p align="left"><img src="images/tamil.gif" width="50" height="50"><img src="images/zeetamil.png" width="40" height="40"></p>
@@ -120,7 +121,7 @@
 
 ---
  
-#### 📽 Tivimate Premium v2.8.0
+#### 📽 Tivimate Premium v2.8.0[Best]
 
 • Download <a href="https://files.moddroid.com/TiviMate%20IPTV%20Player/_TiviMate_2.8.0_Premium.apk">Tivimate Pro v2.8.0</a> to Play Live Channels<br><br>
 • Play in Tivimate App<br><br>
@@ -130,9 +131,9 @@
 • Download <a href="https://github.com/4gray/iptvnator/releases/download/v0.8.0/iptvnator-Setup-0.8.0.exe">IPTVNator v8.0</a> to Play Live Channels<br><br>
 • Also Play in IPTVNator App<br><br>
 
-#### 🎶 IPTV Smarters Pro v3.0.9
+#### 🎶 IPTV Smarters Pro v3.1.2[Updated]
 
-• Download <a href="https://files.moddroid.com/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.0.9.4_-_Mod_-_Armeabi-v7a.apk">IPTV Smarters Pro v3.0.9</a> to Play Live Channels<br><br>
+• Download <a href="https://files.moddroid.co/IPTV%20Smarters%20Pro/IPTV_Smarters_Pro_v3.1.2_-_Mod_-_All_In_One.apk">IPTV Smarters Pro v3.1.2</a> to Play Live Channels<br><br>
 • Also Play in IPTV Smarters App<br><br>
 
 #### 🎥 OTT Navigator Pro v1.6.5
@@ -140,11 +141,15 @@
 • Download <a href="https://files.moddroid.co/OTT%20Navigator%20IPTV/OTT_NAVIGATOR_1.6.5.5_MustHave.apk">OTT Navigator Pro v1.6.5</a> to Play Live Channels<br><br>
 • Also Play in OTT Navigator App<br><br>
 
-#### 📽 IPTV Pro v6.1.9
+#### 📽 IPTV Pro v6.1.10[Updated]
 
-• Download <a href="https://files.moddroid.co/IPTV%20Pro/IPTV_Pro-v6.1.9_build_1101-Mod-armeabi-v7a.apk">IPTV Pro v6.1.9</a> to Play Live Channels<br><br>
+• Download <a href="https://files.moddroid.co/IPTV%20Pro/IPTV_Pro-v6.1.10_build_1102-Mod-armeabi-v7a.apk">IPTV Pro v6.1.10</a> to Play Live Channels<br><br>
 • Also Play in IPTV Pro App<br><br>
 
+#### 📺 IPTV Extreme Pro v113
+
+• Download <a href="https://files.moddroid.co/IPTV%20Extreme%20Pro/IPTV_Extrme_Pro_113.apk">IPTV Extreme Pro v113</a> to Play Live Channels<br><br>
+• Also Play in IPTV Extreme Pro App<br><br>
 
 ---
 
@@ -161,6 +166,7 @@
 <img src="images/iptv2.jpg" alt="IPTV 2" width="320" height="180"><br>
 <img src="images/iptv3.jpg" alt="IPTV 3" width="320" height="180">
 <img src="images/iptv4.jpg" alt="IPTV 4" width="320" height="180"><br>
+<img src="images/iptv5.jpg" alt="IPTV 5" width="320" height="180">
 
 </div>
 
