@@ -27,10 +27,10 @@
 
 <p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
-### TechieSneh IPTV+ v3.5 [Always Working]
+### TechieSneh IPTV+ v3.6 [JIO TV LInKs Updated]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
 • Worlds Channels Added <br>
-• All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.5</a>  <br>
+• All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.6</a>  <br>
 • Right click on m3u playlists to copy and play in Tivimate App<br>
 • Click On Channels Which You Want to Play<br>
 • And Just Enjoy
