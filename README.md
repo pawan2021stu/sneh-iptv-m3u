@@ -27,7 +27,7 @@
 
 <p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
-### TechieSneh IPTV+ v3.5
+### TechieSneh IPTV+ v3.5 [Always Working]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
 • Worlds Channels Added <br>
 • All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.5</a>  <br>
