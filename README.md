@@ -1,19 +1,19 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v3.6 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v3.7 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
 
-<h2> 🍃 Updates v3.6 : </h2>
+<h2> 🍃 Updates v3.7 : </h2>
  
 <h4>
 
 1 » Worldwide Channels Added<br>
 2 » All Indian Channels Works<br>
 3 » Some Channels not Works<br>
-4 » Zee5, Voot, MX & Sony Channels Updated<br>
+4 » Zee5, Voot, MX , SunNxt & Sony Channels Updated<br>
 5 » New Indian Channels Added<br>
 6 » Indian Radio Channels Added<br>
 7 » Indian Movies Playlists Added<br> 
@@ -27,10 +27,10 @@
 
 <p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
-### TechieSneh IPTV+ v3.6 [JIO TV LInKs Updated]
+### TechieSneh IPTV+ v3.7 [SunNxt LInKs Updated]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
 • Worlds Channels Added <br>
-• All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.6</a>  <br>
+• All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.7</a>  <br>
 • Right click on m3u playlists to copy and play in Tivimate App<br>
 • Click On Channels Which You Want to Play<br>
 • And Just Enjoy
@@ -40,7 +40,7 @@
 
 ### Indian Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv-premium.m3u"><img src="images/new.gif" width="25" height="25"> Sneh WatchIndia v2.1 </a>  <br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv-premium.m3u"><img src="images/new.gif" width="25" height="25"> Sneh WatchIndia v2.1 [OFFLINE] </a>  <br>
 • 2nd Link : <a href="https://github.com/techiesneh/sneh-iptv-m3u/blob/main/Indian%20Playlists/snehtvall.m3u"><img src="images/new.gif" width="25" height="25"> Sneh World IPTV+ </a>  <br>
 • 3rdLink : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Weekly Updated </a>  <br> 
 • 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u"><img src="images/new.gif" width="25" height="25">  Sneh AirtelTV Updated </a>  <br><br> 
@@ -106,9 +106,8 @@
 ### World Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv-channel's.m3u">All World Playlists </a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-allindia.m3u">All India Playlists </a>  <br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-usachannels.m3u">USA Channels Playlists </a>  <br>
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worlds-movies.m3u">Sneh Collection of Worlds 61,000 Movies Playlist </a>  <br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-usachannels.m3u">USA Channels Playlists </a>  <br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worlds-movies.m3u">Sneh Collection of Worlds 61,000 Movies Playlist </a>  <br>
 
 
 <p align="left"><img src="images/radio.gif" width="100" height="50"></p>
