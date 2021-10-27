@@ -1,11 +1,6 @@
 #EXTM3U
 
-
-
 ************  US Channels *************
- 
- 
- 
  
 #EXTINF:-1 tvg-id="KBMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="Sneh Local World",12 News Beaumont TX (KBMT) (1080p)
 https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
@@ -2718,10 +2713,6 @@ http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
 #EXTINF:-1 ,Wattan TV
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 
-
-
-
-#EXTM3U
 #EXTINF:-1 group-title="Indonesia" tvg-logo="noimage.png",Berita satu News(HW+)
 https://dl.dropbox.com/s/9t5mmkp3s5366dt/Berita%20satu.m3u8?dl=0
 #EXTINF:-1 group-title="Indonesia" tvg-logo="noimage.png",Ruang Trampil(HW+)
@@ -2781,8 +2772,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 group-title="SPORT" tvg-logo="http://127.0.0.1/",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 
-
-#EXTM3U
 #EXTINF:-1 ,GLOBALTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTINF:-1 ,INDOSIAR
@@ -2868,8 +2857,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
 
-
-#EXTM3U
 #EXTINF:-1 ,IPL Live2
 https://bigmaxworld.com/jio/ytube/list/gtv.php
 #EXTINF:-1 group-title="MUSIC",[COLOR orange]Boogle Bollywood[/COLOR]
