@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+#EXTINF:-1 group-title="Sneh RADIO | Hindi" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 https://github.com/techiesneh
 #EXTINF: group-title="Sneh RADIO | Hindi" ,,Udit Narayan Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
@@ -59,6 +59,8 @@ https://stream.zenolive.com/4g65yz9gg0quv.aac
 http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio
 #EXTINF:-1  group-title="Sneh RADIO | Tamil" tvg-logo="N/A",Thyagam 48k Vanoli
 http://s3.yesstreaming.net:7019/thayagam48K
+#EXTINF:-1 group-title="Sneh RADIO | Tamil" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+https://github.com/techiesneh
 #EXTINF:-1  group-title="Sneh RADIO | Tamil" tvg-logo="N/A",Thyagam 128k Vanoli
 http://s2.yesstreaming.net:7044/thayagam128K
 #EXTINF:-1  group-title="Sneh RADIO | Tamil" tvg-logo="N/A",AKARAM FM
@@ -87,3 +89,160 @@ http://212.83.138.48:8305/;
 http://live.tamilkuyilradio.com:8095/;stream/2
 #EXTINF:-1  group-title="Sneh RADIO | Tamil" tvg-logo="N/A",Sai FM
 http://s2.voscast.com:9742/;
+
+
+#EXTINF:-1,BBC - Radio 1
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1,BBC - Radio 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1,BBC - Radio 3
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1,BBC - Radio 4
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+#EXTINF:-1,BBC - Radio 4 LW (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw
+#EXTINF:-1,BBC - Radio 4 LW (non-UK)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk
+#EXTINF:-1,BBC - Radio 5 live (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live
+#EXTINF:-1,BBC - Radio 5 live (non-UK)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+#EXTINF:-1,BBC - Radio 6 Music
+http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+#EXTINF:-1,BBC - Radio 1Xtra
+http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+#EXTINF:-1,BBC - Radio 4 Extra
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+#EXTINF:-1,BBC - Radio 5 Live sports extra (UK only)
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_sports_extra
+#EXTINF:-1,BBC - Radio Asian Network
+http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network
+#EXTINF:-1,BBC - BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1,BBC - BBC CWR
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_coventry_warwickshire
+#EXTINF:-1,BBC - BBC Essex
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_essex
+#EXTINF:-1,BBC - BBC Hereford Worcester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester
+#EXTINF:-1,BBC - Radio Berkshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire
+#EXTINF:-1,BBC - Radio Bristol
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_bristol
+#EXTINF:-1,BBC - Radio Cambridge
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cambridge
+#EXTINF:-1,BBC - Radio Cornwall
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall
+#EXTINF:-1,BBC - Radio Cumbria
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria
+#EXTINF:-1,BBC - Radio Cymru
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru
+#EXTINF:-1,BBC - Radio Cymru 2
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2
+#EXTINF:-1,BBC - Radio Derby
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
+#EXTINF:-1,BBC - Radio Devon
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon
+#EXTINF:-1,BBC - Radio Foyle
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:-1,BBC - Radio Gloucestershire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
+#EXTINF:-1,BBC - Radio Guernsey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey
+#EXTINF:-1,BBC - Radio Humberside
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside
+#EXTINF:-1,BBC - Radio Jersey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey
+#EXTINF:-1,BBC - Radio Kent
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_kent
+#EXTINF:-1,BBC - Radio Lancashire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
+#EXTINF:-1,BBC - Radio Leeds
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leeds
+#EXTINF:-1,BBC - Radio Leicester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leicester
+#EXTINF:-1,BBC - Radio Lincolnshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lincolnshire
+#EXTINF:-1,BBC - Radio London
+http://stream.live.vc.bbcmedia.co.uk/bbc_london
+#EXTINF:-1,BBC - Radio Manchester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
+#EXTINF:-1,BBC - Radio Merseyside
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_merseyside
+#EXTINF:-1,BBC - Radio nan Gaidheal
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal
+#EXTINF:-1,BBC - Radio Newcastle
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle
+#EXTINF:-1,BBC - Radio Norfolk
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_norfolk
+#EXTINF:-1,BBC - Radio Northampton
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_northampton
+#EXTINF:-1,BBC - Radio Nottingham
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham
+#EXTINF:-1,BBC - Radio Orkney
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney
+#EXTINF:-1,BBC - Radio Oxford
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford
+#EXTINF:-1,BBC - Radio Scotland FM
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm
+#EXTINF:-1,BBC - Radio Scotland MW
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw
+#EXTINF:-1,BBC - Radio Sheffield
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sheffield
+#EXTINF:-1,BBC - Radio Shropshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_shropshire
+#EXTINF:-1,BBC - Radio Solent
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent
+#EXTINF:-1,BBC - Radio Solent West Dorset
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset
+#EXTINF:-1,BBC - Radio Somerset Sound
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound
+#EXTINF:-1,BBC - Radio Stoke
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_stoke
+#EXTINF:-1,BBC - Radio Suffolk
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk
+#EXTINF:-1,BBC - Radio Surrey
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_surrey
+#EXTINF:-1,BBC - Radio Sussex
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex
+#EXTINF:-1,BBC - Radio Tees
+http://stream.live.vc.bbcmedia.co.uk/bbc_tees
+#EXTINF:-1,BBC - Radio Ulster
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
+#EXTINF:-1,BBC - Radio Wales
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm
+#EXTINF:-1,BBC - Radio Wiltshire
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wiltshire
+#EXTINF:-1,BBC - Radio WM
+http://stream.live.vc.bbcmedia.co.uk/bbc_wm
+#EXTINF:-1,BBC - Radio York
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_york
+#EXTINF:-1,BBC - Three Counties Radio
+http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio
+
+
+#EXTINF:-1, FIP
+https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance
+#EXTINF:-1, FIP electro
+https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8?id=radiofrance
+#EXTINF:-1, FIP groove
+https://stream.radiofrance.fr/fipgroove/fipgroove_hifi.m3u8?id=radiofrance
+#EXTINF:-1, FIP jazz
+https://stream.radiofrance.fr/fipjazz/fipjazz.m3u8?id=radiofrance
+#EXTINF:-1, FIP nouveautes
+https://stream.radiofrance.fr/fipnouveautes/fipnouveautes.m3u8?id=radiofrance
+#EXTINF:-1, France culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
+#EXTINF:-1, France info
+https://stream.radiofrance.fr/franceinfo/franceinfo_lofi.m3u8?id=radiofrance
+#EXTINF:-1, France inter
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
+#EXTINF:-1, Le Djam radio
+http://www.djamradio.com/sound
+#EXTINF:-1, Les Inrocks
+https://inrocksradio.ice.infomaniak.ch/inrocksradio-256.aac
+
+
+
+
+
