@@ -1,12 +1,14 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v3.7 ✯ </h1>
+<h1 align="center"> ✯ Sneh IPTV v4.0 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
 <p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
+<h2>🤹‍♂️ Join Our Discord Server :</h2>
+- Join Now : https://bit.ly/discord-techiesneh  <br>
 
-<h2> 🍃 Updates v3.7 : </h2>
+<h2> 🍃 Updates v4.0 : </h2>
  
 <h4>
 
@@ -23,14 +25,17 @@
 
 <br> 
 
+<h2>🧑‍💻 You Can Also Watch Here :</h2>
+- Our Site : https://snehiptv.netlify.app  <br>
+
 <h2> 📙 Playlists Links : </h2>
 
 <p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
-### TechieSneh IPTV+ v3.7 [SunNxt LInKs Updated]
+### TechieSneh IPTV+ v4.0 [aLL LInKs UpDaTed]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
 • Worlds Channels Added <br>
-• All In One IPTV : <a href="https://gist.githubusercontent.com/techiesneh/ee81305d775ed1504ef2d32baaf522a9/raw/techiesnehiptv.m3u"><img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v3.7</a>  <br>
+• All In One IPTV : https://bit.ly/snehiptv <img src="images/new.gif" width="25" height="25"> Sneh All IPTV+ v4.0  <br>
 • Right click on m3u playlists to copy and play in Tivimate App<br>
 • Click On Channels Which You Want to Play<br>
 • And Just Enjoy
@@ -40,15 +45,14 @@
 
 ### Indian Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-iptv-premium.m3u"><img src="images/new.gif" width="25" height="25"> Sneh WatchIndia v2.1 [OFFLINE] </a>  <br>
-• 2nd Link : <a href="https://github.com/techiesneh/sneh-iptv-m3u/blob/main/Indian%20Playlists/snehtvall.m3u"><img src="images/new.gif" width="25" height="25"> Sneh World IPTV+ </a>  <br>
-• 3rdLink : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-weekly-updated.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Weekly Updated </a>  <br> 
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u"><img src="images/new.gif" width="25" height="25">  Sneh AirtelTV Updated </a>  <br><br> 
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/TataSky%20Playlists/sneh-tatasky-plus.m3u"><img src="images/new.gif" width="25" height="25"> Sneh India </a>  <br>
+• 2nd Link : <img src="images/new.gif" width="25" height="25"> https://bit.ly/snehiptvweekly <br> 
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-airteltv.m3u"><img src="images/new.gif" width="25" height="25">  Sneh AirtelTV Updated </a>  <br><br> 
 
 
 <p align="left"><img src="images/nick.gif" width="150" height="50"></p>
 
-### Kids Playlists [ OFFLINE ]
+### Kids Playlists
 
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kids.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Kids Playlist</a>  <br><br>
 
@@ -57,18 +61,18 @@
 
 ### Sports Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sports-india.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Sports Playlist</a>  <br><br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-sports.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Sports Playlist</a>  <br><br>
 
 
 <p align="left"><img src="images/zee5.png" width="38" height="38"><img src="images/sony.gif" width="50" height="50"></p>
 
-### Zee5, Sony, MX & Voot Playlists
+### Zee5, Sony, SunNxt, MX & Voot Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/Sony-Zee5-Sneh-IPTV.m3u">Sneh Sony & Zee5 Playlists </a><br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sony-sneh-iptv.m3u">Sneh Sony Playlists </a><br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/snehtv-mxplayer.m3u">Sneh MxPlayer Playlists </a><br>
-• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-voot.m3u">Sneh Voot Playlists </a><br><br>
- 
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-z5-sony.m3u">Sneh Sony & Zee5 Playlists </a><br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-sonyliv.m3u">Sneh Sony Playlists </a><br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-mxtv.m3u">Sneh MxPlayer Playlists </a><br>
+• 4th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-voot.m3u">Sneh Voot Playlists </a><br>
+• 5th Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Zee5%20%26%20Sony%20Playlists/sneh-sunnxt.m3u">Sneh SunNxt Playlists </a><br><br>
  
 <p align="left"><img src="images/tamil.gif" width="50" height="50"><img src="images/zeetamil.png" width="40" height="40"></p>
 
@@ -91,24 +95,35 @@
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-punjabi.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Punjabi Playlist</a>  <br><br>
 
 
+<p align="left"><img src="images/suryatv.png" width="50" height="50"></p>
+
+### Malayalam Playlists
+
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-malayalam.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Malayalam Playlist</a>  <br><br>
+
+
+<p align="left"><img src="images/zeekannada.png" width="100" height="50"></p>
+
+### Kannada Playlists
+
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-kannada.m3u"><img src="images/new.gif" width="25" height="25"> Sneh Kannada Playlist</a>  <br><br>
+
+
+
 <p align="left"><img src="images/movies.gif" width="100" height="50"></p>
 
 ### Indian Movies Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-hindi-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh HIN Movies Playlist</a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-english-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh ENG Movies Playlist</a>  <br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-allmovies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh ALL Movies Playlist</a>  <br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-action-movies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh ENG Action Movies </a>  <br>
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-allmovies.m3u"><img src="images/new.gif" width="25" height="25"> Sneh ALL Movies Playlist</a>  <br>
 
 
 <p align="left"><img src="images/world.gif" width="100" height="50"></p>
 
 ### World Playlists
 
-• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv-channel's.m3u">All World Playlists </a>  <br>
-• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Indian%20Playlists/sneh-usachannels.m3u">USA Channels Playlists </a>  <br>
-• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worlds-movies.m3u">Sneh Collection of Worlds 61,000 Movies Playlist </a>  <br>
-
+• 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-all-worldtv.m3u">All World Playlists </a>  <br>
+• 2nd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-usa-tv.m3u">USA Channels Playlists </a>  <br>
+• 3rd Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/World%20Playlists/sneh-worldtv-eng.m3u">Eng World Channels Playlists </a>  <br>
 
 <p align="left"><img src="images/radio.gif" width="100" height="50"></p>
 
@@ -117,6 +132,8 @@
 • 1st Link : <a href="https://raw.githubusercontent.com/techiesneh/sneh-iptv-m3u/main/Radio%20Playlists/sneh-radio.m3u">Radio Playlists </a>  <br><br>
 
 
+<h2>🤹‍♂️ Join Our Discord Server :</h2>
+- Join Now : https://bit.ly/discord-techiesneh  <br>
 
 <h2> 📚 IPTV Player Apps Collections : </h2>
 
@@ -156,6 +173,8 @@
 </h4>
 <br>
 
+<h2>🧑‍💻 You Can Also Watch Here :</h2>
+- Our Site : https://snehiptv.netlify.app  <br>
 
 <h2> 🍁 Given Below Are List of Some Screenshots Of Sneh IPTV : </h2>
 
