@@ -50,9 +50,9 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://github.com/techiesneh
 
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
-https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1637743011~exp=1637746011~acl=/*~hmac=5ad0c93732dadcf6f2fa46dd6d01e743014b2c5dc5dad9533e38f3d4f948d962
+https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1637749675~exp=1637752675~acl=/*~hmac=cecd0dd98caee6c10a1d41cabe66f23a52d5880148085e750d5027b1e9a748de
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
-https://z5ams.akamaized.net/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1637742470~exp=1637745470~acl=/*~hmac=4bd12c5e77273d73ac21b68fb54c661c1944510e2dea4ac447c3c8efd89b554e
+https://z5ams.akamaized.net/out/v1/ae9617b9d66d4564831443eb2cc15caf/index.m3u8?hdnts=st=1637749365~exp=1637752365~acl=/*~hmac=96aa90cff484c8febb4b1829f3ef749271bd6929804ce0d12b03c7ce2df5aabc
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
 https://z5ams.akamaized.net/zanmolcnm/index.m3u8?hdnts=st=1637748277~exp=1637751277~acl=/*~hmac=35318ac4523e94343475e80b9b3500aeeb0c692b002cf64d31d6ec0f5f159173
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
