@@ -50,7 +50,7 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://github.com/techiesneh
 
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
-https://zee.avipatilpro.repl.co/?c=0-9-zeecinemahd
+https://z5ams.akamaized.net/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1637740256~exp=1637743256~acl=/*~hmac=f3f19cdc45df5010d458a70e9a0d9413ed3bb94bae1ab67e8b919580f4aa45f7
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemalu
 #EXTINF:-1 group-title="Sneh ZEE5 Movie",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
